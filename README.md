@@ -5,3 +5,4 @@ Fork it and clone to your PC.Add your files about the event by pull requests.
 ### 声明
 不包含本人发表的评论。
 此处只负责记录，不发表任何评论。
+部分评论由于原图问题进行了拼接操作，但并未修改任何用户的评论内容。
